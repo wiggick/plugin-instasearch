@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Plugin-instasearch-2021-03
+Bundle-SymbolicName: plugin-instasearch-2021-03;singleton:=true
+Bundle-Version: 1.0.0
+Bundle-Vendor: com.intersuite
+Automatic-Module-Name: plugin.instasearch.2021
