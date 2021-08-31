@@ -13,7 +13,7 @@ This is an attempt of getting the archived [/ajermakovics/eclipse-instasearch](h
 ## The 2.9.1 Lucene jars in the project
 Yeah I know, just making it easier and it's my whole project backup.
 
-[https://www.apache.org/licenses/LICENSE-2.0.txt (https://www.apache.org/licenses/LICENSE-2.0.txt)
+https://www.apache.org/licenses/LICENSE-2.0.txt
 
 ## What's changing
 
